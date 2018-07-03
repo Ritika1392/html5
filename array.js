@@ -20,3 +20,5 @@ function cal(bill) {
  
 var final = [cal(bills[0])+bills[0],cal(bills[1])+bills[1],cal(bills[2])+bills[2]];
 console.log(final);
+
+// ritika
